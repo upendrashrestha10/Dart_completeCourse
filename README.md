@@ -21,6 +21,15 @@
             -Logical
             -Ternary
 
+# Day-2:
+    -constant keyword
+    -collection:
+        -list
+        -set
+        -map
+    .........................
+
+
 
 
 
