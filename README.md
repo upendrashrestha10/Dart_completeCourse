@@ -27,8 +27,18 @@
         -list
         -set
         -map
-    ........................./.............................>>>>>
 
+# Day-3:
+    -Conditional statement:
+        -if
+        -else
+        -else if
+    -Switch case
+    -loops:
+        -for
+        -while
+        -do while
+        
 
 
 
