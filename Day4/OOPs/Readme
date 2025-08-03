@@ -1,0 +1,26 @@
+
+  **Object-Oriented Programming (OOP)** in Dart is a programming paradigm based on the concept of "objects",  
+  which can contain data (fields) and code (methods). Dart supports all OOP principles like class, object, inheritance, encapsulation, polymorphism, and abstraction.  
+  It helps in writing clean, modular, and reusable code.
+
+  **Syntax (Basic Class & Object):**
+    class Person {
+      String name;
+      int age;
+
+      Person(this.name, this.age);
+
+      void greet() {
+        print('Hello, my name is $name and I am $age years old.');
+      }
+    }
+
+    void main() {
+      Person p1 = Person('Ram', 25);
+      p1.greet(); // Output: Hello, my name is Ram and I am 25 years old.
+    }
+
+  OOP makes code more manageable, especially for large applications.
+
+  For more information, you can see my detailed notes which is on README.md file.
+
