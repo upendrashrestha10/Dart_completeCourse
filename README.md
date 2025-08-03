@@ -38,6 +38,13 @@
         -for
         -while
         -do while
+    -Function
+
+# Day-4:
+    -class and object
+    -Constructor:
+        -Default 
+        -Parameterized
         
 
 
