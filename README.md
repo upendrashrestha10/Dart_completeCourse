@@ -55,6 +55,15 @@
     -Keyword:
         -this
         -static
+    -Getters and Setters
+
+# Day-6:
+    -Abstract classes
+    -Exception Handaling
+    -Type def
+    -Generics
+    -Callable Class
+    Async and Await
 
 
 
