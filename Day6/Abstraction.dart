@@ -47,7 +47,7 @@ class Female extends Humanbeing{
 
 void main(){
   Male obj = Male();
-  obj.Eyes();
+  obj.Eyes(); 
   Female obj1 = Female();
   obj1.Eyes();
 }
