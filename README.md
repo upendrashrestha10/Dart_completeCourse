@@ -87,7 +87,7 @@
 
 
 
-# for more knowledge you can read this note..
+# for more knowledge you can read this note.
 https://bush-bandana-5bc.notion.site/Dart-complete-note-23f5162e949780718425de87c5640611
     
 
