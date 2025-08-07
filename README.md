@@ -63,7 +63,7 @@
     -Type def
     -Generics
     -Callable Class
-    -Async and Await.........
+    -Async and Await.......
 
 
 
